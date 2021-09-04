@@ -5,8 +5,7 @@ import java.util.Scanner;
 //Objetivo:
 //Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma mensagem explicativa.
 
-public class SumIntNumbers {
-	
+public class SumIntNumbers {	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
