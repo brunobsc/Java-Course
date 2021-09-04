@@ -23,6 +23,8 @@ public class AreaDoCirculo {
 		
 		//Mostrando o resultado
 		System.out.printf("A area do circulo é: %.4f", area);
+		
+		scan.close();
 	}
 
 }
